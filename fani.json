@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "饭太硬",
+      "name": "饭太硬",
+      "type": 1,
+      "api": "http://www.饭太硬.com/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
