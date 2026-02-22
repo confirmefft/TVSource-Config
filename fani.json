@@ -2,9 +2,54 @@
   "sites": [
     {
       "key": "饭太硬",
-      "name": "饭太硬",
+      "name": "饭太硬(主)",
       "type": 1,
-      "api": "http://www.饭太硬.com/tv",
+      "api": "http://饭太硬.top/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "肥猫",
+      "name": "肥猫(备1)",
+      "type": 1,
+      "api": "http://肥猫.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "潇洒",
+      "name": "潇洒(备2)",
+      "type": 1,
+      "api": "https://9877.kstore.space/AnotherD/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "摸鱼",
+      "name": "摸鱼(备3)",
+      "type": 1,
+      "api": "http://我不是.摸鱼儿.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小米",
+      "name": "小米(备4)",
+      "type": 1,
+      "api": "http://xhww.fun:63/小米/DEMO.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "王二小",
+      "name": "王二小(备5)",
+      "type": 1,
+      "api": "http://tvbox.王二小放牛娃.xyz",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
